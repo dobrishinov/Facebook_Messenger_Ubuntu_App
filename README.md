@@ -6,11 +6,11 @@ Unofficial Facebook messenger for Ubuntu
 
 2. Second locate the compressed folder and open terminal. 
 You need to change permissions to make file executable.
-Issue the following command to change the permissions so that any user can execute the file **_“~/messenger.py”_**:
+Issue the following command to change the permissions so that any user can execute the file **“ ~/messenger.py ”** :
 
   > chmod +x ~/messenger.py
 
-3. Then go to folder and open **_messenger.py_** from terminal. 
+3. Then go to folder and open **messenger.py** from terminal. 
 
   > ~./messenger.py
 
