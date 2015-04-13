@@ -1,7 +1,7 @@
 # Facebook Messenger Ubuntu App
 Unofficial Facebook messenger for Ubuntu
 
-## Description
+# Description
 
 Chromium eat too many ram of each tab, average 200+ Mb only for facebook + cache. 
 This app use WebKit and less ram.
