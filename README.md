@@ -1,6 +1,11 @@
 # Facebook Messenger Ubuntu App
 Unofficial Facebook messenger for Ubuntu
 
+## Description
+
+Chromium eat too many ram of each tab, average 200+ Mb only for facebook + cache. 
+This app use WebKit and less ram.
+
 # How to install
 1. First thing you need to do is download and unpack package.
 
